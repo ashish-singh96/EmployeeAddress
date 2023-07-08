@@ -36,5 +36,5 @@ The API offers various endpoints to interact with the system. The Employee endpo
 
 The project utilizes Spring Data JPA for data persistence, allowing seamless interaction with a database. The API follows RESTful principles and responds with JSON data for easy integration with other systems or client applications.<br>
 
-To use the application, users can clone the repository, build the project using Maven or Gradle, and run the application locally. The README file provides detailed instructions on how to set up and start the application. Additionally, the API documentation within the README describes the available endpoints and their usage.<br>
+
 
